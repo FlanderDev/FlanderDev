@@ -1,4 +1,4 @@
-### Hi there, I'm Felix - aka [FelixLeander][website] 👋
+### Hi there, [FelixLeander][website] aka Felix 👋
 
 ### To be honest idk what i'm doing here
 
