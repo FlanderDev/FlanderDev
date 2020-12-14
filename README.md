@@ -1,8 +1,8 @@
-### Hi there, [FelixLeander][website] aka Felix 👋
+### Hi there, I am [FelixLeander][website] aka Felix 👋
 
 ### To be honest idk what i'm doing here
 
-## I'm a computer enthusiast and love working with software.
+## I'm a computer enthusiast and love working and understanding with software.
 - 🔭 I’m currently working on a local hosted webserver [website]!
 - 🌱 I’m currently learning everything/nothing 🤣
 - 🥅 2020 Goals: Contribute more coding projects
