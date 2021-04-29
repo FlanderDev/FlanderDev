@@ -1,11 +1,11 @@
-### Hi there, I am [FelixLeander][website] aka Felix 👋
+### Hi there, I am [Felix][website] 👋
 
 ### To be honest idk what i'm doing here
 
 ## I'm a computer enthusiast and love understanding and working with software.
-- 🔭 I’m currently working on a local hosted webserver [website]!
-- 🌱 I’m currently learning everything/nothing 🤣
-- 🥅 2020 Goals: Contribute more coding projects
+- 🔭 Currently working on a bot for [discord]!
+- 🌱 Languages: A bit of JS a bit more Python and hopfully much much more C# 🤣
+- 🥅 2021 Goals: Contribute to more coding projects.
 - ⚡ Fun fact: I love to play sports and yet i am lazy as hell
 
 
@@ -20,3 +20,4 @@
 
 [website]: https://Felix-Leander.de
 [linkedin]: https://www.linkedin.com/in/felix-kreuzberger-a370221b4/
+[discord]: https://discord.com/
