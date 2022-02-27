@@ -11,5 +11,5 @@
 
 <img align="left" alt="Felix-Leander's Github Stats" src="https://i.ibb.co/sQd2KCv/ANETVIu-H-400x400.jpg" />
 
-[website]: https://Felix-Leander.de
+[website]: http://felix-leander.de/
 [discord]: https://discord.com/
