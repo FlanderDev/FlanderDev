@@ -6,7 +6,8 @@
 - 🥅 2024 Goals: Build up my GitHub Portfolio & squeez out every last bit of performance I can.
 - ⚡ Fun fact: I love to play sports & yet i am lazy as hell.
 
-<img align="left" alt="Felix-Leander's Github Stats" src="https://avatars.githubusercontent.com/u/55660647" />
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/e045f578-35b8-4694-8f95-e9e79ccc9e85" />
+
 
 [website]: http://felix-leander.de/
 [discord]: https://discordapp.com/users/536544797997924362
