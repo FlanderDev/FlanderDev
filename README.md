@@ -1,12 +1,12 @@
 ### Hi there, I am [Felix][website] 👋
 
 ## I'm a computer enthusiast & nerd, I love understanding & working with software.
-- 🔭 Former state certifired electrican, now working as a Junior Software Developer at an awesome international mid-sized company.
-- 🌱 Languages: A bit of JS, Python, some more Java, Kotlin and a metric f*ck TON of C# & .NET. Also I do like Rrust ❤!
-- 🥅 2024 Goals: Build up my GitHub Portfolio & squeez out every last bit of performance I can.
+- 🔭 Former state-certified electrican, now working as a Junior Software Developer at an awesome international mid-sized company.
+- 🌱 Languages: By a large margin C#, a small share of Kotlin and Java (android app development), a tiny bit of Rust & avoiding JavaScript wherever I can ❤
+- 🥅 2025 Goals: Learning & using more high performance and parrallel operations in C#.
 - ⚡ Fun fact: I love to play sports & yet i am lazy as hell.
 
-<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/e045f578-35b8-4694-8f95-e9e79ccc9e85" />
+<img width="50%" height="50%" alt="profile picutre, gremlin self personification with a bocchi the rock shirt stating; " src="https://github.com/user-attachments/assets/e045f578-35b8-4694-8f95-e9e79ccc9e85" />
 
 
 [website]: http://felix-leander.de/
