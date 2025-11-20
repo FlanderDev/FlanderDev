@@ -5,7 +5,7 @@
 - [MassImageRenamer](https://github.com/FelixLeander/MassImageRenamer): An extreme simple image sorted, but it works.
 
 ## Usefuls gists
-<script src="https://gist.github.com/FelixLeander/668c7ec28cd1d7c28d4cde939462f890.js"></script>
+{% gist /668c7ec28cd1d7c28d4cde939462f890 %}
 
 ## I'm a computer enthusiast & nerd, I love understanding & working with software. Bing terminally online helps :D
 - 🔭 Former state-certified electrican, now working as a Junior Software Developer at an awesome international mid-sized company.
@@ -17,5 +17,6 @@
 
 [website]: http://felix-leander.de/
 [discord]: https://discordapp.com/users/536544797997924362
+
 
 
