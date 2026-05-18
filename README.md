@@ -1,11 +1,11 @@
 # Welcome fellow IT lovers, I am [Felix][website] 👋
 
 ## Projects which are NOT BRICKED 
-- [Windows-Service-Installer](https://github.com/FelixLeander/Windows-Service-Installer): A simple console application for managing windows-services.
-- [MassImageRenamer](https://github.com/FelixLeander/MassImageRenamer): An extreme simple image sorted, but it works.
+- [Windows-Service-Installer](https://github.com/FlanderDev/Windows-Service-Installer): A simple console application for managing windows-services.
+- [MassImageRenamer](https://github.com/FlanderDev/MassImageRenamer): An extreme simple image sorted, but it works.
 
 ## Usefuls gists
-- [Editable Console.ReadLine](https://gist.github.com/FelixLeander/668c7ec28cd1d7c28d4cde939462f890)
+- [Editable Console.ReadLine](https://gist.github.com/FlanderDev/668c7ec28cd1d7c28d4cde939462f890)
 
 
 ## About Me
