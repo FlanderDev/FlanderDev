@@ -12,7 +12,7 @@
 ### 👋 Hi! I’m a computer enthusiast & nerd from Germany 🇩🇪  
 I love understanding and working with software. Being terminally online definitely helps 😄
 - 🌱 I started out as a vocational **electrician**, got interested in programming, and now work as a **Software Developer** with experience in multiple international environments
-- 🔭 **Languages:** Primarily **C#** by a large margin, with some **Kotlin/Java** (Android app development), a tiny bit of **Rust**, and a strong commitment to avoiding **JavaScript** wherever possible ❤️ (currentl failing)
+- 🔭 **Languages:** Primarily **C#** by a large margin, with some **Kotlin/Java** (Android app development), a tiny bit of **Rust**, and a strong commitment to avoiding **JavaScript** wherever possible ❤️ (currently failing)
 - ⚡ **Fun fact:** I love playing sports — and yet I’m lazy as hell
 - 🥅 **2026 Goals:** Getting into game modding and putting out some libraries.
 
