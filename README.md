@@ -21,5 +21,5 @@ I love understanding and working with software. Being terminally online definite
 
 <img width="50%" height="50%" alt="profile picture, gremlin self personification with a bocchi the rock shirt" src="https://github.com/user-attachments/assets/e045f578-35b8-4694-8f95-e9e79ccc9e85" />
 
-[website]: http://FlanderDev.felix-leander.de/
+[website]: http://FlanderDev.flandus.de/
 [discord]: https://discordapp.com/users/536544797997924362
