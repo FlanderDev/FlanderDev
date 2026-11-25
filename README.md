@@ -60,7 +60,7 @@ One source of truth for routes, so URL strings can't drift out of sync. F3M runs
 ![Roslyn](https://img.shields.io/badge/Roslyn-239120?style=flat-square&logo=csharp&logoColor=white)
 <br/>
 [![NuGet](https://img.shields.io/nuget/v/FlanderDev.RouteGen.Generators?style=flat-square&label=nuget&color=e8ff47&labelColor=0a0a0f)](https://www.nuget.org/packages/FlanderDev.RouteGen.Generators)
-[![Downloads](https://img.shields.io/nuget/dt/FlanderDev.RouteGen.Generators?style=flat-square&color=47c8ff&labelColor=0a0a0f)](https://www.nuget.org/packages/FlanderDev.RouteGen.Generators)
+[![Downloads](https://img.shields.io/nuget/dt/FlanderDev.RouteGen.Abstractions?style=flat-square&color=47c8ff&labelColor=0a0a0f)](https://www.nuget.org/packages/FlanderDev.RouteGen.Abstractions)
 
 </td>
 </tr>
